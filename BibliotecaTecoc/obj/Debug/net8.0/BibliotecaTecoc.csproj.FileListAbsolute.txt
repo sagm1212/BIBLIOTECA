@@ -1,0 +1,28 @@
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.exe
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.deps.json
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.runtimeconfig.json
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.dll
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.pdb
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.dll
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\refint\BibliotecaTecoc.dll
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.pdb
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\ref\BibliotecaTecoc.dll
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.exe
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.deps.json
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.runtimeconfig.json
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.dll
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\bin\Debug\net8.0\BibliotecaTecoc.pdb
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.AssemblyInfoInputs.cache
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.AssemblyInfo.cs
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.dll
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\refint\BibliotecaTecoc.dll
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.pdb
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\BibliotecaTecoc.genruntimeconfig.cache
+C:\Users\ASUS\3D Objects\BibliotecaTecoc\BibliotecaTecoc\obj\Debug\net8.0\ref\BibliotecaTecoc.dll
